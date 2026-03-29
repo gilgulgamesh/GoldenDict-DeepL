@@ -13,3 +13,11 @@ To use this plugin in GoldenDict/GoldenDict-ng, you need to install Node.js, git
 In GoldenDict/GoldenDict-ng, press F3 or open Dictionaries settings. Add the following settings in the programs panel, the path will be different depends on where you store the script.
 
 ![Screenshot 2024-02-20 154202](https://github.com/DevJogger/GoldenDict-DeepL/assets/158173870/8931c59d-6ea0-4b09-8756-70647ad67ddb)
+
+***But rename from DeepL.js to SPECIFIC_LANGUAGE.js
+
+to make your own,  change MI end EN to your language's code.
+
+This fork also reformats the usage thing, showing percent instead of the whole fraction.
+
+Made with an LLM***
